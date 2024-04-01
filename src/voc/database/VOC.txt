@@ -1,0 +1,14 @@
+VOC#VOC#92000.0
+0.5#1
+0.1#6
+Budi#100#1#1
+Santi#45#6#2
+Rizki#75#1#2
+Andreas#85#1#2
+Tommy#80#1#2
+Joko#70#1#2
+Raka#95#1#1
+Budi#100#1#1
+Diandra#90#1#1
+Hosannia#100#1#1
+Eka#95#6#2
